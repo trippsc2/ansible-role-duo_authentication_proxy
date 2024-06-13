@@ -1,15 +1,15 @@
 <!-- BEGIN_ANSIBLE_DOCS -->
 
-# Ansible Role: trippsc2.duo_authentication_proxy
-This role installs and configures a DUO Authentication Proxy on a Linux machine.
+# Ansible Role: ansible-role-duo_authentication_proxy
+DEPRECATED: Use trippsc2.duo.authentication_proxy instead.
 
 ## Requirements
 
 | Platform | Versions |
 | -------- | -------- |
-| Debian |  |
-| EL | 8, 9 |
-| Ubuntu | focal, jammy, noble |
+| Debian | <ul></ul> |
+| EL | <ul><li>8</li><li>9</li></ul> |
+| Ubuntu | <ul><li>focal</li><li>jammy</li><li>noble</li></ul> |
 
 ## Dependencies
 
